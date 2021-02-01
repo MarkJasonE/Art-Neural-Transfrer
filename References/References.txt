@@ -1,0 +1,11 @@
+https://www.kaggle.com/imoore/generate-paintings-by-image-style-transfer/comments 
+ > Generating Paintings With Style Transfer
+
+https://www.kaggle.com/micheledifazio/abstract-art-gan
+ > Abstract Art With Gans
+
+https://sefiks.com/2018/07/20/artistic-style-transfer-with-deep-learning/ 
+ > From a blog, not comprehensive 
+
+https://github.com/lengstrom/fast-style-transfer
+ > Implementation of paper
